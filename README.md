@@ -15,6 +15,15 @@
 - 퀵 정렬을 이용한 알고리즘 최적화 By C
 - 레이캐스팅을 이용한 기초 게임 제작 By C
 
+## Algorithm
+- 알고리즘 강의 - 80문제
+- 백준 - 70문제
+- Codeup - 350 문제
+
+## Group Study
+- 데이터베이스 (21.5 ~ 21.6)
+- 네트워크 (21.6 ~ 21.7)
+- 운영체제 (21.7 ~)
 
 ## Tech
 - <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> - 중상

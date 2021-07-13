@@ -26,7 +26,7 @@
 - 네트워크 (21.6 ~ 21.7)
 - 운영체제 (21.7 ~)
 
-## Tech
+## Tech Skill
 - <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> - 중상
 - <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> - 중하
 - <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> - 중

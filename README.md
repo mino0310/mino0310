@@ -6,7 +6,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mino0310)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Project
-- Not yet
+### 진행 중
+- 시그널을 이용해 프로세스간 통신 구현 By C
+
+### 끝난 것
+- 기본 라이브러리 함수 제작 By C
+- 파일 입출력 함수 제작 By C
+- 퀵 정렬을 이용한 알고리즘 최적화 By C
+- 레이캐스팅을 이용한 기초 게임 제작 By C
+- 
 
 
 ## Tech

@@ -8,6 +8,7 @@
 ## Project
 ### 진행 중
 - 기초적인 동작을 하는 쉘 구현하기 (miniShell) By C
+- 공공데이터 OpenAPI로 미세먼지 데이터 읽어오는 프로그램 작성 By Java
 
 ### 끝난 것
 - 기본 라이브러리 함수 제작 By C

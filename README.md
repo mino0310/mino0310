@@ -7,7 +7,7 @@
 
 ## Project
 ### 진행 중
-- 시그널을 이용해 프로세스간 통신 구현 By C
+- 기초적인 동작을 하는 쉘 구현하기 (miniShell) By C
 
 ### 끝난 것
 - 기본 라이브러리 함수 제작 By C
@@ -15,16 +15,18 @@
 - 퀵 정렬을 이용한 알고리즘 최적화 By C (최적화 부분 설계 및 구현)
 - 레이캐스팅을 이용한 기초 게임 제작 By C
 - nginx로 서버 구동 및 WordPress 로 웹 작성 및 DB 연결 By C
+- 시그널을 이용해 프로세스간 통신 구현 By C
 
 ## Algorithm
-- 알고리즘 강의 - 80문제
+- 알고리즘 강의 - 90문제
 - 백준 - 70문제
 - Codeup - 350 문제
 
 ## Group Study
 - 데이터베이스 (21.5 ~ 21.6)
 - 네트워크 (21.6 ~ 21.7)
-- 운영체제 (21.7 ~)
+- 운영체제 (21.7 ~ 21.8)
+- 자료구조 및 알고리즘 (21.8 ~)
 
 ## Tech Skill
 - <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> - 중상

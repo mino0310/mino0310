@@ -2,7 +2,7 @@
 ## Slow and steady win the game :)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekdan1726)](https://https://solved.ac/profile/minhkim)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minhkim)](https://https://solved.ac/profile/minhkim)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mino0310&show_icons=true&theme=gruvbox)

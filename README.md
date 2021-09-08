@@ -25,7 +25,7 @@
 
 ## Algorithm
 - 알고리즘 강의 - 90문제
-- 백준 - 90문제
+- 백준 - 100문제
 - Codeup - 350 문제
 
 ## Group Study

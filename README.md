@@ -33,7 +33,8 @@
 - 데이터베이스 (21.5 ~ 21.6)
 - 네트워크 (21.6 ~ 21.7)
 - 운영체제 (21.7 ~ 21.8)
-- 자료구조 및 알고리즘 (21.8 ~)
+- 자료구조 및 알고리즘 (21.8 ~ )
+- 스프링 스터디 (21.9 ~ )
 
 ## Tech Skill
 - <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> - 중상

@@ -11,6 +11,7 @@
 
 ## Project
 ### 진행 중
+- 기초적인 동작을 하는 쉘 구현하기 (miniShell) By C
 - 프로세스로 운영체제의 간섭 이해하기 By C
 - 스프링 부트와 JPA를 사용해 웹 어플리케이션 개발 By Java
 
@@ -22,7 +23,6 @@
 - 레이캐스팅을 이용한 기초 게임 제작 By C
 - nginx로 서버 구동 및 WordPress 로 웹 작성 및 DB 연결 By C
 - 시그널을 이용해 프로세스간 통신 구현 By C
-- 기초적인 동작을 하는 쉘 구현하기 (miniShell) By C
 - 공공데이터 OpenAPI로 미세먼지 데이터 읽어오는 프로그램 작성 By Java
 
 ## Algorithm

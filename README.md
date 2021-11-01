@@ -1,13 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=mino%20&fontSize=90)
 ## Slow and steady win the game :)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minhkim)](https://https://solved.ac/profile/minhkim)
+|Github Statistics|Streaks|Languages|
+|-|-|-|
+|![mino's GitHub stats](https://github-readme-stats.vercel.app/api?username=mino0310&show_icons=true&theme=gruvbox)(https://github.com/mino0310)|[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minhkim)](https://https://solved.ac/profile/minhkim)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mino0310)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mino0310&show_icons=true&theme=gruvbox)
+> 
+> [![Solved.ac
+> 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minhkim)](https://https://solved.ac/profile/minhkim)
+> 
+> 
+> ![mino's GitHub stats](https://github-readme-stats.vercel.app/api?username=mino0310&show_icons=true&theme=gruvbox)
+> 
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mino0310)](https://github.com/anuraghazra/github-readme-stats)
+> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mino0310)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Project
 ### 진행 중

@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=mino%20&fontSize=90)
 ## Slow and steady win the game :)
 
 |Github stats|Solved.ac|Languages|

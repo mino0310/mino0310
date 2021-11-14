@@ -6,7 +6,7 @@
 
 ## Project
 ### 진행 중
-- 기초적인 동작을 하는 쉘 구현하기 (miniShell) By C
+- 스프링 부트와 JPA를 사용해 웹 어플리케이션 API 개발 By Java
 
 
 ### 끝난 것
@@ -19,7 +19,7 @@
 - 공공데이터 OpenAPI로 미세먼지 데이터 읽어오는 프로그램 작성 By Java
 - 스프링 부트와 JPA를 사용해 웹 어플리케이션 개발 By Java
 - 프로세스로 운영체제의 간섭 이해하기 By C
-- 스프링 부트와 JPA를 사용해 웹 어플리케이션 API 개발 By Java
+- 기초적인 동작을 하는 쉘 구현하기 (miniShell) By C
 
 
 ## Algorithm

@@ -7,7 +7,7 @@
 ## Project
 ### 진행 중
 - 스프링 부트와 JPA를 사용해 웹 어플리케이션 API 개발 By Java
-
+- spring mvc 활용해 웹 만들기
 
 ### 끝난 것
 - 기본 라이브러리 함수 제작 By C

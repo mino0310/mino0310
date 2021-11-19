@@ -33,6 +33,7 @@
 - 운영체제 (21.7 ~ 21.8)
 - 자료구조 및 알고리즘 (21.8 ~ 21.10)
 - SQLD(21.11 ~ )
+- Spring MVC(21.10 ~)
 
 ## Tech Skill
 - <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> - 중상

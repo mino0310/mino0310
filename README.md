@@ -6,7 +6,6 @@
 
 ## Project
 ### 진행 중
-- 스프링 부트와 JPA를 사용해 웹 어플리케이션 API 개발 및 최적화 By Java
 - spring mvc 활용해 웹 만들기
 - query dsl 사용
 
@@ -19,6 +18,7 @@
 - 시그널을 이용해 프로세스간 통신 구현 By C
 - 공공데이터 OpenAPI로 미세먼지 데이터 읽어오는 프로그램 작성 By Java
 - 스프링 부트와 JPA를 사용해 웹 어플리케이션 개발 By Java
+- 스프링 부트와 JPA를 사용해 웹 어플리케이션 API 개발 및 최적화 By Java
 
 
 

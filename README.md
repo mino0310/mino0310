@@ -26,10 +26,10 @@
 - Codeup - 350 문제
 
 ## Group Study
-- 데이터베이스 (21.5 ~ 21.6)
-- 네트워크 (21.6 ~ 21.7)
-- 운영체제 (21.7 ~ 21.8)
-- 자료구조 및 알고리즘 (21.8 ~ 21.10)
+- Database (21.5 ~ 21.6)
+- Network (21.6 ~ 21.7)
+- Operating System (21.7 ~ 21.8)
+- Data Structure and Algorithm (21.8 ~ 21.10)
 
 ## Tech Skill
 - <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> - 중

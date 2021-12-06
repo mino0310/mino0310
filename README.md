@@ -4,23 +4,21 @@
 |-|-|-|
 |[![mino's GitHub stats](https://github-readme-stats.vercel.app/api?username=mino0310&show_icons=true&theme=gruvbox)](https://github.com/mino0310)|![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minhkim)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mino0310)](https://github.com/anuraghazra/github-readme-stats)
 
-## Project
-### 진행 중
-- spring mvc 활용해 웹 만들기
+## Programming Study
+### 학습 중
+- Spring MVC 기본 지식 학습
 
 ### 끝난 것
-- 기본 라이브러리 함수 제작 By C
-- 파일 입출력 함수 제작 By C
-- 퀵 정렬을 이용한 알고리즘 최적화 By C (최적화 부분 설계 및 구현)
-- 레이캐스팅을 이용한 기초 게임 제작 By C
-- nginx로 서버 구동 및 WordPress 로 웹 작성 및 DB 연결 By C
-- 시그널을 이용해 프로세스간 통신 구현 By C
-- 공공데이터 OpenAPI로 미세먼지 데이터 읽어오는 프로그램 작성 By Java
+- Spring 기본 지식 학습
+- HTTP 웹 기본 지식 학습
+- JPA 기본 지식 학습
 - 스프링 부트와 JPA를 사용해 웹 어플리케이션 개발 By Java
 - 스프링 부트와 JPA를 사용해 웹 어플리케이션 API 개발 및 최적화 By Java
-- query dsl 사용
+- query dsl 기본 지식 학습
+- spring data jpa 기본 지식 학습
 
-
+### 학습할 것
+- Spring 고급 지식 학습
 
 ## Algorithm
 - 알고리즘 강의 - 110문제

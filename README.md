@@ -7,6 +7,7 @@
 ## Programming Study
 ### 학습 중
 - Spring MVC 고급 지식 학습
+- 42 Project
 
 ### 끝난 것
 - Spring 기본 지식 학습

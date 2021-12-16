@@ -35,6 +35,10 @@
 - Operating System (21.7 ~ 21.8)
 - Data Structure and Algorithm (21.8 ~ 21.10)
 
+## Certificate
+- Engineer Information Processing
+- Structured Query Language Developer
+
 ## Tech Skill
 - <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> - 중
 - <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> - 중

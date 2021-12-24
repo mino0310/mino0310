@@ -6,13 +6,14 @@
 
 ## Programming Study
 ### 학습 중
-- Spring MVC 고급 지식 학습
+- Spring 고급 지식 학습
 - 42 Project
 
 ### 끝난 것
 - Spring 기본 지식 학습
 - HTTP 웹 기본 지식 학습
 - Spring MVC 기본 지식 학습
+- Spring MVC 고급 지식 학습
 - JPA 기본 지식 학습
 - 스프링 부트와 JPA를 사용해 웹 어플리케이션 개발 By Java
 - 스프링 부트와 JPA를 사용해 웹 어플리케이션 API 개발 및 최적화 By Java
@@ -21,7 +22,6 @@
 
 
 ### 학습할 것
-- Spring 고급 지식 학습
 
 ## Algorithm
 - 알고리즘 강의 - 110문제

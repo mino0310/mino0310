@@ -31,6 +31,7 @@
 ### 학습할 것
 
 ## Project(22.01 ~ )
+- Member Entity CRUD 구현
 
 ## Algorithm
 - 알고리즘 강의 - 110문제

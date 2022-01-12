@@ -14,7 +14,7 @@
 ## Programming Study
 ### 학습 중
 - Spring 고급 지식 학습
-- 42 Project
+- 42 Project (C++ project)
 
 ### 끝난 것
 - Spring 기본 지식 학습

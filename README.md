@@ -32,6 +32,9 @@
 
 ## Project(22.01 ~ )
 - Member Entity CRUD 구현
+- Spring Rest Docs
+- Spring vault
+- 이미지 업로드
 
 ## Algorithm
 - 알고리즘 강의 - 110문제

@@ -34,7 +34,7 @@
 - Member Entity CRUD 구현
 - Spring Rest Docs
 - Spring vault
-- 이미지 업로드
+- 사용자 클래스에 이미지 업로드
 
 ## Algorithm
 - 알고리즘 강의 - 110문제

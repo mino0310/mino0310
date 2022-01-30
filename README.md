@@ -36,7 +36,6 @@
 - Spring vault (보류)
 - 사용자 클래스에 이미지 업로드
 - AWS EC2, S3, mysql
-- 무중단 배포
 
 ## Algorithm
 - 알고리즘 강의 - 110문제

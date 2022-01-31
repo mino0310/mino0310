@@ -33,7 +33,6 @@
 ## Project(22.01 ~ )
 - Member Entity CRUD 구현
 - Spring Rest Docs
-- Spring vault (보류)
 - 사용자 클래스에 이미지 업로드
 - AWS EC2, S3, mysql
 

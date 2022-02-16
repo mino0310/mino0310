@@ -34,6 +34,7 @@
 - Spring Rest Docs
 - 사용자 클래스에 이미지 업로드
 - AWS EC2, S3, mysql
+- Realtime Chat App
 
 ## Algorithm
 - 알고리즘 강의 - 110문제

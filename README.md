@@ -16,16 +16,16 @@
 - Spring 고급 지식 학습
 - 
 ### 끝난 것
-- Spring 기본 지식 학습
+- [Spring의 전반적 기초 학습](https://github.com/mino0310/spring)
+- [Spring 기본 지식 학습](https://github.com/mino0310/spring/tree/master/spring_basic)
+- [Spring MVC 기본 지식 학습](https://github.com/mino0310/spring_MVC)
+- [Spring MVC 고급 지식 학습](https://github.com/mino0310/spring_MVC/tree/master/springmvc_ver2)
+- [JPA 기본 지식 학습](https://github.com/mino0310/Java_ORM_JPA_Programming)
+- [스프링 부트와 JPA를 사용해 웹 어플리케이션 개발 By Java](https://github.com/mino0310/springBoot_JPA/tree/master/springBoot_JPA)
+- [스프링 부트와 JPA를 사용해 웹 어플리케이션 API 개발 및 최적화 By Java](https://github.com/mino0310/springBoot_JPA/tree/master/springBoot_JPA)
+- [spring data jpa 기본 지식 학습](https://github.com/mino0310/springBoot_JPA/tree/master/spring_data_jpa)
+- [query dsl 기본 지식 학습](https://github.com/mino0310/springBoot_JPA/tree/master/querydsl)
 - HTTP 웹 기본 지식 학습
-- Spring MVC 기본 지식 학습
-- Spring MVC 고급 지식 학습
-- JPA 기본 지식 학습
-- 스프링 부트와 JPA를 사용해 웹 어플리케이션 개발 By Java
-- 스프링 부트와 JPA를 사용해 웹 어플리케이션 API 개발 및 최적화 By Java
-- query dsl 기본 지식 학습
-- spring data jpa 기본 지식 학습
-
 
 ### 학습할 것
 

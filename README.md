@@ -29,7 +29,7 @@
 
 ### 학습할 것
 
-## Project(22.01 ~ )
+## [Project](https://github.com/SAMKIME)(22.01 ~ )
 - Member Entity CRUD 구현
 - Spring Rest Docs
 - 사용자 클래스에 이미지 업로드

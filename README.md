@@ -1,3 +1,4 @@
+-
 ## Slow and steady win the game :)
 
 |Github stats|Solved.ac|Languages|
@@ -47,6 +48,7 @@
 - Network (21.6 ~ 21.7)
 - Operating System (21.7 ~ 21.8)
 - Data Structure and Algorithm (21.8 ~ 21.10)
+- Java (22.2 ~ )
 
 ## Certificate
 - Engineer Information Processing

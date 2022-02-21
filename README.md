@@ -1,4 +1,3 @@
--
 ## Slow and steady win the game :)
 
 |Github stats|Solved.ac|Languages|

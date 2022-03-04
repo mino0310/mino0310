@@ -14,7 +14,6 @@
 ## Programming Study
 
 ### 학습 중
-- Spring 고급 지식 학습
 
 ### 끝난 것
 - [Spring의 전반적 기초 학습](https://github.com/mino0310/spring)

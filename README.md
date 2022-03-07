@@ -28,7 +28,7 @@
 - HTTP 웹 기본 지식 학습
 
 ### 학습할 것
-
+js, nodejs
 
 ## [Project](https://github.com/SAMKIME)(22.01 ~ )
 - Member Entity CRUD 구현

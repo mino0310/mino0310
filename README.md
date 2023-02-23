@@ -3,7 +3,6 @@
 |Github stats|Solved.ac|Languages|
 |-|-|-|
 |[![mino's GitHub stats](https://github-readme-stats.vercel.app/api?username=mino0310&show_icons=true&theme=gruvbox)](https://github.com/mino0310)|![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minhkim)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mino0310)](https://github.com/anuraghazra/github-readme-stats)
-<iframe src="https://hackerrank-badge.herokuapp.com/mino0310" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
 ## Tech Skill
 - <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> - 중
 - <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> - 중
